@@ -1,0 +1,25 @@
+{
+  "name": "adminLte.demo",
+  "description": "Skeleton for Laravel with AdminLte",
+  "main": "",
+  "authors": [
+    "Luca Ciotti <luca.ciotti@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "adminlte",
+    "laravel"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#^2.3.3"
+  }
+}
